@@ -3,6 +3,10 @@ rg = {
     name     = "rg-development"
     location = "West Central US"
   }
+  rg2 = {
+    name     = "rg-development2"
+    location = "West Central US"
+  }
 }
 
 vnet = {
