@@ -8,7 +8,7 @@ rg = {
     location = "West Central US"
   }
   rg3 = {
-    name     = "rg-development3"
+    name     = "rg-dev3"
     location = "West Central US"
   }
    rg4 = {
