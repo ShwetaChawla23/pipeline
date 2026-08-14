@@ -8,18 +8,14 @@ rg = {
     location = "West Central US"
   }
   rg3 = {
-    name     = "rg-dev3"
-    location = "West Central US"
-  }
-   rg4 = {
-    name     = "rg-development4"
+    name     = "rg-devi"
     location = "West Central US"
   }
 }
 
 vnet = {
   vnet1 = {
-    name                = "dev-vnet"
+    name                = "dev-vnet1"
     location            = "West Central US"
     resource_group_name = "rg-development"
   }
