@@ -3,14 +3,11 @@ rg = {
     name     = "rg-development"
     location = "West Central US"
   }
-  rg2 = {
-    name     = "rg-development2"
+ rg2 = {
+    name     = "rg-development22"
     location = "West Central US"
   }
-  rg3 = {
-    name     = "rg-development3"
-    location = "West Central US"
-  }
+ 
 }
 
 vnet = {
